@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\emilia.centea\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\emilia.centea\\.nuget\\packages"
+    ]
+  }
+}
